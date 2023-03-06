@@ -1,0 +1,48 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container-fluid-header,
+.container-fluid-channels,
+.container-fluid-footer {
+  padding: 1% 15%;
+}
+
+.container-fluid-channels {
+  background-color: rgb(222, 240, 255, 0.25);
+}
+
+.container-fluid-footer {
+  text-align: center;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.download {
+  align-items: center;
+  margin-top: 80px;
+}
+
+.btn-primary {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h4 {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.contato {
+  background-color: brown;
+}
+
+.socials {
+  background-color: aquamarine;
+}
+
+footer {
+  padding-bottom: 2%;
+}
